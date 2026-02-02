@@ -109,7 +109,7 @@ Copy code
 
 Bash
 
-jupiter:
+jupyter:
 spam_detection.ipynb
 
 Provide Input Dataset: Place CSV files in the designated folder or specify the path in the script.
